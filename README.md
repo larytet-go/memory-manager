@@ -13,3 +13,4 @@ Links
 * https://github.com/Akashi96/Buddy-Memory-Allocator
 * https://github.com/sdpetrides/BuddyAllocator
 * https://www.memorymanagement.org/mmref/alloc.html
+* https://www.freertos.org/a00111.html
